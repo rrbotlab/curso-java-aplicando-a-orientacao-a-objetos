@@ -4,7 +4,7 @@
 
 # Oracle ONE G8 + alura Latam
 
-![alt](/path)
+![alt](/assets/images/capa.png)
 
 ## Curso Java
 ### Aplicando a Orientação a Objetos
